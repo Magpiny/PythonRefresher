@@ -1,0 +1,1 @@
+To construct a random narrative, we first imported the random module, then built sections of the stories in separate lists, then randomly picked portions of the lists. As a beginning, you are more interested in developing software applications, which is understandable. 

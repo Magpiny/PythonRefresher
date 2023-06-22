@@ -5,5 +5,10 @@ body{
 .container{
 	width: 70vw;
 	margin: 0 auto;
-	background-color: #ff3478;
+	background-color: #f3e781
+}
+
+#paper{
+	text-align: center;
+	font-size: bolder;
 }
